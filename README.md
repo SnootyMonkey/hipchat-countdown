@@ -2,6 +2,16 @@
 
 Update a HipChat room's topic with a countdown to a specific date.
 
+## Dependencies
+
+You need a Java 7+ JVM to run Clojure. Run the following to ensure you have the right Java VM:
+
+```console
+java -version
+```
+
+You must have Leiningen 2.3.4+ which can be installed by following the very simple directions [here](http://leiningen.org/).
+
 ## Configuration
 
 There is a config file, `config.edn` in the root project directory, which is in [EDN format](https://github.com/edn-format/edn). Use it to configure the HipChat room's topic updates called . The properties in the config file should be self-explanatory:

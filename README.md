@@ -1,4 +1,4 @@
-# hipchat-countdown
+# -= hipchat-countdown =-
 
 Update a HipChat room's topic with a countdown to a specific date.
 

@@ -73,6 +73,6 @@ The output to stdout is suitable for logging. If you would like a logfile (recom
 
 ## License
 
-hipchat-countown is distributed under the [Mozilla Public License v2.0](http://www.mozilla.org/MPL/2.0/).
+hipchat-countown is is free and unencumbered software released into the public domain.
 
-Copyright © 2014 [Snooty Monkey, LLC](http://snootymonkey.com/)
+For more information, please refer to [unlicense.org](http://unlicense.org).

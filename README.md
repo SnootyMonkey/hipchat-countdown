@@ -19,7 +19,7 @@ There is a config file, `config.edn` in the root project directory, which is in 
 ```clojure
 {
   :countdown-date "2014-04-15T12:00:00" ; an ISO 8601 timestamp http://www.w3.org/TR/NOTE-datetime
-  :room "<Name or ID of your HipChat room name>"
+  :room "<Name or ID of your HipChat room>"
   :v2-api-token "<your HipChat v2 API auth-token>"
   :msg-prefix "100 Day Project Countdown: "
   :msg-suffix " days remaining until launch on April 15th, 2014"

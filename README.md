@@ -69,7 +69,7 @@ Here's what a sample crontab entry to run once a day at 9AM might look like:
 
 ## Logging
 
-The output to stdout is suitable for logging. If you would like a logfile (recommended) then ensure sndout is captured to a logfile in your scheduled execution (as in the above crontab example).
+The output to stdout is suitable for logging. If you would like a logfile (recommended) then ensure stdout is captured to a logfile in your scheduled execution (as in the above crontab example).
 
 ## License
 

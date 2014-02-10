@@ -11,7 +11,7 @@
   :dependencies [
     [org.clojure/clojure "1.5.1"] ; Lisp on the JVM http://clojure.org/documentation
     [clj-time "0.6.0"] ; data & time library https://github.com/clj-time/clj-time
-    [clj-http "0.7.8"] ; HTTP library https://github.com/dakrone/clj-http
+    [clj-http "0.7.9"] ; HTTP library https://github.com/dakrone/clj-http
     [cheshire "5.3.1"] ; JSON de/encoding https://github.com/dakrone/cheshire
   ]
 

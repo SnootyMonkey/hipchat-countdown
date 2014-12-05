@@ -75,6 +75,6 @@ The output to stdout is suitable for logging. If you would like a logfile (recom
 
 ## License
 
-hipchat-countown is is free and unencumbered software released into the public domain.
+hipchat-countown is free and unencumbered software released into the public domain.
 
 For more information, please refer to [unlicense.org](http://unlicense.org).

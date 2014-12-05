@@ -1,6 +1,8 @@
 # -= hipchat-countdown =-
 
-Update a HipChat room's topic with a countdown to a specific date.
+[![Unlicense](http://img.shields.io/badge/license-unlicense-green.svg?style=flat)](http://unlicense.org/)
+
+Schedulable script to update a HipChat room's topic with a countdown to a specific date.
 
 ## Dependencies
 
@@ -10,7 +12,7 @@ You need a Java 7+ JVM to run Clojure. Run the following to ensure you have the 
 java -version
 ```
 
-You must have Leiningen 2.3.4+ which can be installed by following the very simple directions [here](http://leiningen.org/).
+You must have Leiningen 2.5+ which can be installed by following the very simple directions [here](http://leiningen.org/).
 
 ## Configuration
 

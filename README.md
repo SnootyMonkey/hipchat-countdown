@@ -1,6 +1,6 @@
 # -= hipchat-countdown =-
 
-[![Unlicense](http://img.shields.io/badge/license-unlicense-green.svg?style=flat)](http://unlicense.org/)
+[![Unlicense](http://img.shields.io/badge/license-unlicense-blue.svg?style=flat)](http://unlicense.org/)
 
 Schedulable script to update a HipChat room's topic with a countdown to a specific date.
 

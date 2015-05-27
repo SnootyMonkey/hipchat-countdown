@@ -11,7 +11,7 @@
   :dependencies [
     [org.clojure/clojure "1.6.0"] ; Lisp on the JVM http://clojure.org/documentation
     [clj-time "0.9.0"] ; data & time library https://github.com/clj-time/clj-time
-    [clj-http "1.0.1"] ; HTTP library https://github.com/dakrone/clj-http
+    [clj-http "1.1.2"] ; HTTP library https://github.com/dakrone/clj-http
     [cheshire "5.4.0"] ; JSON de/encoding https://github.com/dakrone/cheshire
   ]
 
@@ -20,7 +20,7 @@
   }
 
   :plugins [
-    [lein-ancient "0.5.5"] ; Check for outdated dependencies https://github.com/xsc/lein-ancient
+    [lein-ancient "0.6.3"] ; Check for outdated dependencies https://github.com/xsc/lein-ancient
   ]
 
 )
